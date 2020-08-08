@@ -2,7 +2,7 @@
 ------------------------------
 
 <p align="center">
-  <img width="100%" src="./ikaros-with-watermelon.gif">
+  <img width="100%" src="https://github.com/ton-tonton/ton-tonton/blob/master/ikaros-with-watermelon.gif">
 </p>
 
 ### My github stats
