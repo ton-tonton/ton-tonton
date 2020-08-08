@@ -1,8 +1,7 @@
-### Hi there, I'm tontonton 👋
-------------------------------
+## Hi there, I'm tontonton 👋
 
-<p align="center">
-  <img width="100%" src="https://github.com/ton-tonton/ton-tonton/blob/master/ikaros-with-watermelon.gif">
+<p>
+  <img width="59.867257584%" src="https://github.com/ton-tonton/ton-tonton/blob/master/ikaros-with-watermelon.gif">
 </p>
 
 ### My github stats
