@@ -1,13 +1,13 @@
 ### Hi there, I'm tontonton 👋
 ------------------------------
 
-I'm really love this anime.
-![image](https://github.com/ton-tonton/ton-tonton/blob/master/ikaros-with-watermelon.gif)
-------------------------------
+<p align="center">
+  <img width="100%" src="https://gfycat.com/jubilantpleasingflyingfish.gif">
+</p>
 
-### My gibhub stats
+### My github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ton-tonton&show_icons=true)
 
 
-#### My used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-tonton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-tonton&layout=compact)
