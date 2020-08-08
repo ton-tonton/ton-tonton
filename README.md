@@ -2,7 +2,7 @@
 ------------------------------
 
 <p align="center">
-  <img width="100%" src="https://gfycat.com/jubilantpleasingflyingfish.gif">
+  <img width="100%" src="./ikaros-with-watermelon.gif">
 </p>
 
 ### My github stats
