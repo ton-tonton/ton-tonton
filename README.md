@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm tontonton 👋
+------------------------------
 
-<!--
-**ton-tonton/ton-tonton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm really love this anime.
+![image](https://github.com/ton-tonton/ton-tonton/blob/master/ikaros-with-watermelon.gif)
+------------------------------
 
-Here are some ideas to get you started:
+### My gibhub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=ton-tonton&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### My used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-tonton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
